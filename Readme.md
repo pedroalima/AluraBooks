@@ -1,3 +1,3 @@
 # AluraBooks
 
-<img src="readme/alurabooks 1.png">
+<img src="Readme/Alurabooks1.png">
