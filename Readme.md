@@ -1,9 +1,6 @@
 # AluraBooks
 ## Progressão do Projeto
 
-<div class="container">
-<div class="container__item">
-
 ### Navegador
 <img src="Readme/1.png">
 
@@ -30,21 +27,6 @@
 
 ### Rodapé
 <img src="Readme/9.png">
-</div>
 
-<div class="container__item">
-
-### Projeto Finalizado
+## Projeto Finalizado
 <img src="Readme/final 0.png">
-
-</div>
-</div>
-
-<style>
-
-.container {
-    display:flex;
-    column-gap: 2em
-}
-
-</style>
