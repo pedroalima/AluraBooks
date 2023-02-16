@@ -30,3 +30,25 @@
     background-position: 0em;
     padding-left: 3em;
 }
+
+@media screen and (min-width: 1024px) {
+    .contatos {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contatos__titulo {
+        width: 60%;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .contatos__pesquisa {
+        width: 30%;
+    }
+
+    .contatos__descriçao {
+        width: 70%;
+    }
+}

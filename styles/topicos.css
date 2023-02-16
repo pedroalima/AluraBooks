@@ -26,3 +26,41 @@
     font-size: 14px;
     font-weight: 700;
 }   
+
+@media screen and (min-width: 1024px) {
+    .topico__item {
+        font-size: 24px;
+    }
+
+    .topicos__lista {
+        width: 73%;
+        margin: 0 auto;
+        row-gap: 1.5em;
+        column-gap: 1.5em;
+    }
+
+    .topico__item:nth-child(1) {
+        order: 1;
+    }
+    .topico__item:nth-child(2) {
+        order: 3;
+    }
+    .topico__item:nth-child(3) {
+        order: 4;
+    }
+    .topico__item:nth-child(4) {
+        order: 5;
+    }
+    .topico__item:nth-child(5) {
+        order: 6;
+    }
+    .topico__item:nth-child(6) {
+        order: 8;
+    }
+    .topico__item:nth-child(7) {
+        order: 2;
+    }
+    .topico__item:nth-child(8) {
+        order: 7;
+    }
+}
