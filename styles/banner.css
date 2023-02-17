@@ -13,6 +13,7 @@
 .banner__texto {
     padding: 1em 0;
     font-weight: 500;
+    line-height: 21px;
 }
 
 .banner__pesquisa {
@@ -52,6 +53,6 @@
     }
 
     .banner__pesquisa::placeholder {
-        background-position: 7em;
+        background-position: 6em;
     }
 }

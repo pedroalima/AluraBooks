@@ -24,6 +24,10 @@
     padding: 1em;
 }
 
+.cabeçalho__imagem {
+    margin: 1em;
+}
+
 .lista-menu {
     display: none;
     position: absolute;
@@ -97,10 +101,20 @@
     .opçoes__link {
         text-transform: uppercase;
         text-decoration: none;
+        color: var(--preto);
     }
 
     .cabeçalho {
         display: flex;
         justify-content: space-around;
+    }
+
+    .container__imagem {
+        margin: 0 1.5em;
+    }
+
+    .cabeçalho__imagem {
+        margin-top: 0;
+        margin-bottom: 0.7em;
     }
 }
