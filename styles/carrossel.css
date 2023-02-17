@@ -125,3 +125,37 @@
         width: 60%;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .carrossel__titulo {
+        font-size: 32px;
+    }
+
+    .carrossel__container {
+        display: flex;
+        margin: 0 10vw 4em 10vw;
+        padding: 3em 0;
+    }
+
+    .swiper-pagination {
+        margin-bottom: 1em;
+    }
+
+    .swiper {
+        width: 50%;
+    }
+
+    .card {
+        width: 45%;
+        margin-left: 4em;
+    }
+
+    .card__entrada {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .card__texto {
+        width: 70%;
+    }
+}

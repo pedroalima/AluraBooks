@@ -57,3 +57,25 @@
         background-position: 0.5em;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .contatos {
+        padding: 4em 28vw;
+    }
+    
+    .contatos_container{
+        margin-right: 1em;
+    }
+
+    .contatos__titulo {
+        width: 100%;
+    }
+
+    .contatos__pesquisa {
+        width: 45%;
+    }
+
+    .contatos__pesquisa::placeholder {
+        font-size: 16px;
+    }
+}
