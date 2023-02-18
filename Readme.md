@@ -1,32 +1,13 @@
 # AluraBooks
 ## Progressão do Projeto
 
-### Navegador
-<img src="Readme/1.png">
+### Para dispositivos de 390px de largura
+<img src="Readme/390px.png">
+<img src="Readme/390px_menu.png">
 
-### Menu Hamburguer
-<img src="Readme/2.png">
+### Para dispositivos de 1024px de largura
+<img src="Readme/1024px.png">
+<img src="Readme/1024px_menu.png">
 
-### Banner
-<img src="Readme/3.png">
-
-### Carrossel
-<img src="Readme/4.png">
-
-### Card
-<img src="Readme/5.png">
-
-### Reutilização de Estilos
-<img src="Readme/6.png">
-
-### Tópicos
-<img src="Readme/7.png">
-
-### Contatos
-<img src="Readme/8.png">
-
-### Rodapé
-<img src="Readme/9.png">
-
-## Projeto Finalizado
-<img src="Readme/final0.png">
+### Para dispositivos de 1728px de largura
+<img src="Readme/1728px.png">
